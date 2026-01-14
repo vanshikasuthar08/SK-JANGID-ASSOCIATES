@@ -1,7 +1,7 @@
 
   # Architectural Promotion Website
 
-  This is a code bundle for Architectural Promotion Website. The original project is available at https://www.figma.com/design/yRX4FeoA6Rx50uirXjeRSi/Architectural-Promotion-Website.
+  This is a code bundle for Architectural Promotion Website.
 
   ## Running the code
 
